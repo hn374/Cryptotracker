@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Abel|Anton&display=swap');
+
+.header {
+    font-size: 68px;
+    font-family: 'Abel', sans-serif;
+    font-family: 'Anton', sans-serif;
+    color: white;
+}
